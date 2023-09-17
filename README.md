@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## - 🌱 I’m currently learning some rust to avoid getting rusty.
-## - ⚡ Fun fact: I make bad puns.
+# - 🌱 I’m currently learning some rust to avoid getting rusty.
+# - ⚡ Fun fact: I make bad puns.
 
 <!--
 **SmigorX/SmigorX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
