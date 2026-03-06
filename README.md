@@ -10,7 +10,7 @@
 
 ---
 
-## 🗂️ what you'll find here
+## 🗂️ What can interest you here
 
 | 📁 | what's inside |
 |---|---|
